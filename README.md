@@ -1,2 +1,4 @@
 # News-Research-Tool
-LLM Project _ End to End LLM Project Using Langchain, OpenAI in Finance Domain
+
+
+ZBot: Is a boy you give it a group of links seprated and ask it then it gives you the answer based on the articles you give it. 
